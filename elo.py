@@ -6,7 +6,7 @@ from scipy.special import erf, erfc, erfcinv
 FIDE_STDEV = 2000 / 7
 
 FIRST_MOVER_ADVANTAGE = .2
-DRAW_ODDS_ADVANTAGE = .325  # .6
+DRAW_ODDS_ADVANTAGE = .6
 
 
 def elo_fn(elo_diff):
