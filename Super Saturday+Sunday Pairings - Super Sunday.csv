@@ -1,0 +1,257 @@
+Round,Round offset,Column offset,Row offset,Board offset,Team 1,Team 1 full name,Team 1 division,Player 1,Rating 1,Team 2,Team 2 full name,Team 2 division,Player 2,Rating 2
+1,32,0,0,0,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586
+1,32,0,0,1,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537
+1,32,0,0,2,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491
+1,32,0,0,3,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300
+1,32,1,0,0,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482,London Lions,London Lions,Central,Tran Tuan Minh,2547
+1,32,1,0,1,Estonia,Estonia Horses,Eastern,Siim Kanep,2180,London Lions,London Lions,Central,Yang-Fan Zhou,2461
+1,32,1,0,2,Estonia,Estonia Horses,Eastern,Sander Kukk,2178,London Lions,London Lions,Central,Justin Tan,2439
+1,32,1,0,3,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178,London Lions,London Lions,Central,Edward Porper,2377
+1,32,2,0,0,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827,London Towers,London Towers,Central,Roman Yanchenko,2436
+1,32,2,0,1,Norway,Norway Gnomes,Eastern,Aryan Tari,2588,London Towers,London Towers,Central,Peter Roberson,2403
+1,32,2,0,2,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397,London Towers,London Towers,Central,Thomas Rendle,2366
+1,32,2,0,3,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899,London Towers,London Towers,Central,Blair Connell,2255
+1,32,3,0,0,Riga,Riga Magicians,Eastern,Vojtech Plat,2539,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651
+1,32,3,0,1,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593
+1,32,3,0,2,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563
+1,32,3,0,3,Riga,Riga Magicians,Eastern,Anna Kantane,2299,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271
+1,32,4,0,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433
+1,32,4,0,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397
+1,32,4,0,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379
+1,32,4,0,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335
+1,32,5,0,0,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556
+1,32,5,0,1,Marseille,Marseille Migraines,Central,Jules Moussard,2571,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+1,32,5,0,2,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410
+1,32,5,0,3,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339
+1,32,6,0,0,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708
+1,32,6,0,1,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558
+1,32,6,0,2,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+1,32,6,0,3,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305
+1,32,7,0,0,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642
+1,32,7,0,1,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+1,32,7,0,2,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559
+1,32,7,0,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+2,35,0,3,0,London Lions,London Lions,Central,Tran Tuan Minh,2547,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619
+2,35,0,3,1,London Lions,London Lions,Central,Yang-Fan Zhou,2461,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560
+2,35,0,3,2,London Lions,London Lions,Central,Justin Tan,2439,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+2,35,0,3,3,London Lions,London Lions,Central,Edward Porper,2377,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287
+2,35,1,3,0,London Towers,London Towers,Central,Roman Yanchenko,2436,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482
+2,35,1,3,1,London Towers,London Towers,Central,Peter Roberson,2403,Estonia,Estonia Horses,Eastern,Siim Kanep,2180
+2,35,1,3,2,London Towers,London Towers,Central,Thomas Rendle,2366,Estonia,Estonia Horses,Eastern,Sander Kukk,2178
+2,35,1,3,3,London Towers,London Towers,Central,Blair Connell,2255,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178
+2,35,2,3,0,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827
+2,35,2,3,1,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593,Norway,Norway Gnomes,Eastern,Aryan Tari,2588
+2,35,2,3,2,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397
+2,35,2,3,3,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899
+2,35,3,3,0,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586,Riga,Riga Magicians,Eastern,Vojtech Plat,2539
+2,35,3,3,1,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405
+2,35,3,3,2,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302
+2,35,3,3,3,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300,Riga,Riga Magicians,Eastern,Anna Kantane,2299
+2,35,4,3,0,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804
+2,35,4,3,1,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397,Marseille,Marseille Migraines,Central,Jules Moussard,2571
+2,35,4,3,2,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+2,35,4,3,3,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947
+2,35,5,3,0,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+2,35,5,3,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+2,35,5,3,2,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460
+2,35,5,3,3,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398
+2,35,6,3,0,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558
+2,35,6,3,1,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474
+2,35,6,3,2,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309
+2,35,6,3,3,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+2,35,7,3,0,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+2,35,7,3,1,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+2,35,7,3,2,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+2,35,7,3,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+3,38,0,6,0,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619,London Towers,London Towers,Central,Roman Yanchenko,2436
+3,38,0,6,1,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560,London Towers,London Towers,Central,Peter Roberson,2403
+3,38,0,6,2,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,London Towers,London Towers,Central,Thomas Rendle,2366
+3,38,0,6,3,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287,London Towers,London Towers,Central,Blair Connell,2255
+3,38,1,6,0,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651
+3,38,1,6,1,Estonia,Estonia Horses,Eastern,Siim Kanep,2180,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593
+3,38,1,6,2,Estonia,Estonia Horses,Eastern,Sander Kukk,2178,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563
+3,38,1,6,3,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271
+3,38,2,6,0,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586
+3,38,2,6,1,Norway,Norway Gnomes,Eastern,Aryan Tari,2588,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537
+3,38,2,6,2,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491
+3,38,2,6,3,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300
+3,38,3,6,0,Riga,Riga Magicians,Eastern,Vojtech Plat,2539,London Lions,London Lions,Central,Tran Tuan Minh,2547
+3,38,3,6,1,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405,London Lions,London Lions,Central,Yang-Fan Zhou,2461
+3,38,3,6,2,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302,London Lions,London Lions,Central,Justin Tan,2439
+3,38,3,6,3,Riga,Riga Magicians,Eastern,Anna Kantane,2299,London Lions,London Lions,Central,Edward Porper,2377
+3,38,4,6,0,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433
+3,38,4,6,1,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397
+3,38,4,6,2,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379
+3,38,4,6,3,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335
+3,38,5,6,0,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556
+3,38,5,6,1,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+3,38,5,6,2,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410
+3,38,5,6,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339
+3,38,6,6,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708
+3,38,6,6,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558
+3,38,6,6,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+3,38,6,6,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305
+3,38,7,6,0,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642
+3,38,7,6,1,Marseille,Marseille Migraines,Central,Jules Moussard,2571,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+3,38,7,6,2,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559
+3,38,7,6,3,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+4,41,0,9,0,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619
+4,41,0,9,1,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560
+4,41,0,9,2,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+4,41,0,9,3,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287
+4,41,1,9,0,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482
+4,41,1,9,1,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537,Estonia,Estonia Horses,Eastern,Siim Kanep,2180
+4,41,1,9,2,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491,Estonia,Estonia Horses,Eastern,Sander Kukk,2178
+4,41,1,9,3,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178
+4,41,2,9,0,London Lions,London Lions,Central,Tran Tuan Minh,2547,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827
+4,41,2,9,1,London Lions,London Lions,Central,Yang-Fan Zhou,2461,Norway,Norway Gnomes,Eastern,Aryan Tari,2588
+4,41,2,9,2,London Lions,London Lions,Central,Justin Tan,2439,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397
+4,41,2,9,3,London Lions,London Lions,Central,Edward Porper,2377,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899
+4,41,3,9,0,London Towers,London Towers,Central,Roman Yanchenko,2436,Riga,Riga Magicians,Eastern,Vojtech Plat,2539
+4,41,3,9,1,London Towers,London Towers,Central,Peter Roberson,2403,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405
+4,41,3,9,2,London Towers,London Towers,Central,Thomas Rendle,2366,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302
+4,41,3,9,3,London Towers,London Towers,Central,Blair Connell,2255,Riga,Riga Magicians,Eastern,Anna Kantane,2299
+4,41,4,9,0,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558
+4,41,4,9,1,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474
+4,41,4,9,2,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309
+4,41,4,9,3,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+4,41,5,9,0,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+4,41,5,9,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+4,41,5,9,2,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+4,41,5,9,3,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+4,41,6,9,0,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804
+4,41,6,9,1,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558,Marseille,Marseille Migraines,Central,Jules Moussard,2571
+4,41,6,9,2,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+4,41,6,9,3,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947
+4,41,7,9,0,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+4,41,7,9,1,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+4,41,7,9,2,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460
+4,41,7,9,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398
+5,44,0,12,0,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+5,44,0,12,1,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+5,44,0,12,2,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+5,44,0,12,3,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+5,44,1,12,0,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804
+5,44,1,12,1,Estonia,Estonia Horses,Eastern,Siim Kanep,2180,Marseille,Marseille Migraines,Central,Jules Moussard,2571
+5,44,1,12,2,Estonia,Estonia Horses,Eastern,Sander Kukk,2178,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+5,44,1,12,3,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947
+5,44,2,12,0,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+5,44,2,12,1,Norway,Norway Gnomes,Eastern,Aryan Tari,2588,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+5,44,2,12,2,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460
+5,44,2,12,3,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398
+5,44,3,12,0,Riga,Riga Magicians,Eastern,Vojtech Plat,2539,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558
+5,44,3,12,1,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474
+5,44,3,12,2,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309
+5,44,3,12,3,Riga,Riga Magicians,Eastern,Anna Kantane,2299,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+5,44,4,12,0,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433
+5,44,4,12,1,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397
+5,44,4,12,2,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379
+5,44,4,12,3,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335
+5,44,5,12,0,London Lions,London Lions,Central,Tran Tuan Minh,2547,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556
+5,44,5,12,1,London Lions,London Lions,Central,Yang-Fan Zhou,2461,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+5,44,5,12,2,London Lions,London Lions,Central,Justin Tan,2439,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410
+5,44,5,12,3,London Lions,London Lions,Central,Edward Porper,2377,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339
+5,44,6,12,0,London Towers,London Towers,Central,Roman Yanchenko,2436,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708
+5,44,6,12,1,London Towers,London Towers,Central,Peter Roberson,2403,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558
+5,44,6,12,2,London Towers,London Towers,Central,Thomas Rendle,2366,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+5,44,6,12,3,London Towers,London Towers,Central,Blair Connell,2255,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305
+5,44,7,12,0,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642
+5,44,7,12,1,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+5,44,7,12,2,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559
+5,44,7,12,3,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+6,47,0,15,0,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619
+6,47,0,15,1,Marseille,Marseille Migraines,Central,Jules Moussard,2571,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560
+6,47,0,15,2,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+6,47,0,15,3,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287
+6,47,1,15,0,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482
+6,47,1,15,1,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,Estonia,Estonia Horses,Eastern,Siim Kanep,2180
+6,47,1,15,2,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460,Estonia,Estonia Horses,Eastern,Sander Kukk,2178
+6,47,1,15,3,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178
+6,47,2,15,0,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827
+6,47,2,15,1,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474,Norway,Norway Gnomes,Eastern,Aryan Tari,2588
+6,47,2,15,2,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397
+6,47,2,15,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899
+6,47,3,15,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Riga,Riga Magicians,Eastern,Vojtech Plat,2539
+6,47,3,15,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405
+6,47,3,15,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302
+6,47,3,15,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Riga,Riga Magicians,Eastern,Anna Kantane,2299
+6,47,4,15,0,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433,London Lions,London Lions,Central,Tran Tuan Minh,2547
+6,47,4,15,1,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397,London Lions,London Lions,Central,Yang-Fan Zhou,2461
+6,47,4,15,2,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379,London Lions,London Lions,Central,Justin Tan,2439
+6,47,4,15,3,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335,London Lions,London Lions,Central,Edward Porper,2377
+6,47,5,15,0,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556,London Towers,London Towers,Central,Roman Yanchenko,2436
+6,47,5,15,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,London Towers,London Towers,Central,Peter Roberson,2403
+6,47,5,15,2,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410,London Towers,London Towers,Central,Thomas Rendle,2366
+6,47,5,15,3,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339,London Towers,London Towers,Central,Blair Connell,2255
+6,47,6,15,0,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651
+6,47,6,15,1,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593
+6,47,6,15,2,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563
+6,47,6,15,3,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271
+6,47,7,15,0,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586
+6,47,7,15,1,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537
+6,47,7,15,2,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491
+6,47,7,15,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300
+7,50,0,18,0,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+7,50,0,18,1,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+7,50,0,18,2,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460
+7,50,0,18,3,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398
+7,50,1,18,0,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558
+7,50,1,18,1,Estonia,Estonia Horses,Eastern,Siim Kanep,2180,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474
+7,50,1,18,2,Estonia,Estonia Horses,Eastern,Sander Kukk,2178,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309
+7,50,1,18,3,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+7,50,2,18,0,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+7,50,2,18,1,Norway,Norway Gnomes,Eastern,Aryan Tari,2588,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+7,50,2,18,2,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+7,50,2,18,3,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+7,50,3,18,0,Riga,Riga Magicians,Eastern,Vojtech Plat,2539,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804
+7,50,3,18,1,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405,Marseille,Marseille Migraines,Central,Jules Moussard,2571
+7,50,3,18,2,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+7,50,3,18,3,Riga,Riga Magicians,Eastern,Anna Kantane,2299,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947
+7,50,4,18,0,London Towers,London Towers,Central,Roman Yanchenko,2436,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433
+7,50,4,18,1,London Towers,London Towers,Central,Peter Roberson,2403,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397
+7,50,4,18,2,London Towers,London Towers,Central,Thomas Rendle,2366,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379
+7,50,4,18,3,London Towers,London Towers,Central,Blair Connell,2255,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335
+7,50,5,18,0,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556
+7,50,5,18,1,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+7,50,5,18,2,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410
+7,50,5,18,3,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339
+7,50,6,18,0,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708
+7,50,6,18,1,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558
+7,50,6,18,2,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+7,50,6,18,3,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305
+7,50,7,18,0,London Lions,London Lions,Central,Tran Tuan Minh,2547,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642
+7,50,7,18,1,London Lions,London Lions,Central,Yang-Fan Zhou,2461,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+7,50,7,18,2,London Lions,London Lions,Central,Justin Tan,2439,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559
+7,50,7,18,3,London Lions,London Lions,Central,Edward Porper,2377,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+8,53,0,21,0,Cannes,Cannes Blockbusters,Central,Robert Fontaine,2558,Delhi,Delhi Dynamite,Eastern,Abhijeet Gupta,2619
+8,53,0,21,1,Cannes,Cannes Blockbusters,Central,Barseghyan Harutyun,2474,Delhi,Delhi Dynamite,Eastern,Vaibhav Suri,2560
+8,53,0,21,2,Cannes,Cannes Blockbusters,Central,Pierre Villegas,2309,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+8,53,0,21,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Delhi,Delhi Dynamite,Eastern,Prithu Gupta,2287
+8,53,1,21,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Estonia,Estonia Horses,Eastern,Aleksandr Volodin,2482
+8,53,1,21,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Estonia,Estonia Horses,Eastern,Siim Kanep,2180
+8,53,1,21,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Estonia,Estonia Horses,Eastern,Sander Kukk,2178
+8,53,1,21,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Estonia,Estonia Horses,Eastern,Nikolai Kunitsõn,2178
+8,53,2,21,0,Marseille,Marseille Migraines,Central,Maxime Vachier-Lagrave,2804,Norway,Norway Gnomes,Eastern,Magnus Carlsen,2827
+8,53,2,21,1,Marseille,Marseille Migraines,Central,Jules Moussard,2571,Norway,Norway Gnomes,Eastern,Aryan Tari,2588
+8,53,2,21,2,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,Norway,Norway Gnomes,Eastern,Torbjørn Ringdal Hansen,2397
+8,53,2,21,3,Marseille,Marseille Migraines,Central,Marc Andria Maurizzi,1947,Norway,Norway Gnomes,Eastern,Elham Abdrlauf,1899
+8,53,3,21,0,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,Riga,Riga Magicians,Eastern,Vojtech Plat,2539
+8,53,3,21,1,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,Riga,Riga Magicians,Eastern,Vojtech Zwardon,2405
+8,53,3,21,2,Reykjavik,Reykjavik Puffins,Central,Jon Viktor Gunnarsson,2460,Riga,Riga Magicians,Eastern,Sergejs Klimakovs,2302
+8,53,3,21,3,Reykjavik,Reykjavik Puffins,Central,Bjorn Thorfinnsson,2398,Riga,Riga Magicians,Eastern,Anna Kantane,2299
+8,53,4,21,0,Oslo,Oslo Trolls,Eastern,Kristian Stuvik Holm,2433,Stockholm,Stockholm Snowballs,Central,Georg Meier,2651
+8,53,4,21,1,Oslo,Oslo Trolls,Eastern,Benjamin Haldorsen,2397,Stockholm,Stockholm Snowballs,Central,Levan Pantsulaia,2593
+8,53,4,21,2,Oslo,Oslo Trolls,Eastern,Johannes Haug,2379,Stockholm,Stockholm Snowballs,Central,Kirill Alekseenko,2563
+8,53,4,21,3,Oslo,Oslo Trolls,Eastern,Kjetil Stokke,2335,Stockholm,Stockholm Snowballs,Central,Inna Agrest,2271
+8,53,5,21,0,Mumbai,Mumbai Movers,Eastern,Diptayan Ghosh,2556,Amsterdam,Amsterdam Mosquitoes,Central,Wouter Spoelman,2586
+8,53,5,21,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,Amsterdam,Amsterdam Mosquitoes,Central,Suat Atalik,2537
+8,53,5,21,2,Mumbai,Mumbai Movers,Eastern,Mohammad Nubairshah Shaikh,2410,Amsterdam,Amsterdam Mosquitoes,Central,David Klein,2491
+8,53,5,21,3,Mumbai,Mumbai Movers,Eastern,Raunak Sadhwani,2339,Amsterdam,Amsterdam Mosquitoes,Central,Lennart Dek,2300
+8,53,6,21,0,Volga,Volga Stormbringers,Eastern,Dmitry Andreikin,2708,London Lions,London Lions,Central,Tran Tuan Minh,2547
+8,53,6,21,1,Volga,Volga Stormbringers,Eastern,Sergey Grigoriants,2558,London Lions,London Lions,Central,Yang-Fan Zhou,2461
+8,53,6,21,2,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,London Lions,London Lions,Central,Justin Tan,2439
+8,53,6,21,3,Volga,Volga Stormbringers,Eastern,Vladislav Chizhikov,2305,London Lions,London Lions,Central,Edward Porper,2377
+8,53,7,21,0,Armenia,Armenia Eagles,Eastern,Hrant Melkumyan,2642,London Towers,London Towers,Central,Roman Yanchenko,2436
+8,53,7,21,1,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,London Towers,London Towers,Central,Peter Roberson,2403
+8,53,7,21,2,Armenia,Armenia Eagles,Eastern,Manuel Petrosyan,2559,London Towers,London Towers,Central,Thomas Rendle,2366
+8,53,7,21,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,London Towers,London Towers,Central,Blair Connell,2255

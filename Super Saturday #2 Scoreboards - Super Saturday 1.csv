@@ -1,0 +1,257 @@
+Round,Round offset,Column offset,Row offset,Board offset,Team 1,Team 1 full name,Team 1 division,Player 1,Rating 1,Team 2,Team 2 full name,Team 2 division,Player 2,Rating 2
+1,5,0,0,0,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+1,5,0,0,1,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574
+1,5,0,0,2,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522
+1,5,0,0,3,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342,Dallas,Dallas Destiny,Pacific,Artur Safin,2229
+1,5,1,0,0,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+1,5,1,0,1,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547
+1,5,1,0,2,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530
+1,5,1,0,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179
+1,5,2,0,0,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+1,5,2,0,1,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662
+1,5,2,0,2,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621
+1,5,2,0,3,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983
+1,5,3,0,0,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600
+1,5,3,0,1,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524
+1,5,3,0,2,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421
+1,5,3,0,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753
+1,5,4,0,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+1,5,4,0,1,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+1,5,4,0,2,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+1,5,4,0,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+1,5,5,0,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+1,5,5,0,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176
+1,5,5,0,2,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393,Marseille,Marseille Migraines,Central,Remy Degraeve,2171
+1,5,5,0,3,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988
+1,5,6,0,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643
+1,5,6,0,1,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+1,5,6,0,2,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509
+1,5,6,0,3,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144
+1,5,7,0,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+1,5,7,0,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421
+1,5,7,0,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378
+1,5,7,0,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304
+2,8,0,3,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638
+2,8,0,3,1,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+2,8,0,3,2,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391
+2,8,0,3,3,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342
+2,8,1,3,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+2,8,1,3,1,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577
+2,8,1,3,2,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568
+2,8,1,3,3,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+2,8,2,3,0,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539
+2,8,2,3,1,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+2,8,2,3,2,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+2,8,2,3,3,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385
+2,8,3,3,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602
+2,8,3,3,1,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531
+2,8,3,3,2,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404
+2,8,3,3,3,Dallas,Dallas Destiny,Pacific,Artur Safin,2229,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+2,8,4,3,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588
+2,8,4,3,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514
+2,8,4,3,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393
+2,8,4,3,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+2,8,5,3,0,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+2,8,5,3,1,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505
+2,8,5,3,2,Marseille,Marseille Migraines,Central,Remy Degraeve,2171,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+2,8,5,3,3,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430
+2,8,6,3,0,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+2,8,6,3,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+2,8,6,3,2,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381
+2,8,6,3,3,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319
+2,8,7,3,0,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+2,8,7,3,1,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743
+2,8,7,3,2,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574
+2,8,7,3,3,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+3,11,0,6,0,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+3,11,0,6,1,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662
+3,11,0,6,2,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621
+3,11,0,6,3,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983
+3,11,1,6,0,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600
+3,11,1,6,1,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524
+3,11,1,6,2,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421
+3,11,1,6,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753
+3,11,2,6,0,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+3,11,2,6,1,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574
+3,11,2,6,2,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522
+3,11,2,6,3,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385,Dallas,Dallas Destiny,Pacific,Artur Safin,2229
+3,11,3,6,0,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+3,11,3,6,1,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547
+3,11,3,6,2,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530
+3,11,3,6,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179
+3,11,4,6,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+3,11,4,6,1,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+3,11,4,6,2,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+3,11,4,6,3,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+3,11,5,6,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+3,11,5,6,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176
+3,11,5,6,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381,Marseille,Marseille Migraines,Central,Remy Degraeve,2171
+3,11,5,6,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988
+3,11,6,6,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643
+3,11,6,6,1,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+3,11,6,6,2,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509
+3,11,6,6,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144
+3,11,7,6,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+3,11,7,6,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421
+3,11,7,6,2,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378
+3,11,7,6,3,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304
+4,14,0,9,0,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638
+4,14,0,9,1,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+4,14,0,9,2,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391
+4,14,0,9,3,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342
+4,14,1,9,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+4,14,1,9,1,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577
+4,14,1,9,2,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568
+4,14,1,9,3,Dallas,Dallas Destiny,Pacific,Artur Safin,2229,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+4,14,2,9,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539
+4,14,2,9,1,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+4,14,2,9,2,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+4,14,2,9,3,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385
+4,14,3,9,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602
+4,14,3,9,1,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531
+4,14,3,9,2,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404
+4,14,3,9,3,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+4,14,4,9,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+4,14,4,9,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+4,14,4,9,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381
+4,14,4,9,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319
+4,14,5,9,0,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+4,14,5,9,1,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743
+4,14,5,9,2,Marseille,Marseille Migraines,Central,Remy Degraeve,2171,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574
+4,14,5,9,3,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+4,14,6,9,0,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588
+4,14,6,9,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514
+4,14,6,9,2,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393
+4,14,6,9,3,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+4,14,7,9,0,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+4,14,7,9,1,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505
+4,14,7,9,2,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+4,14,7,9,3,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430
+5,17,0,12,0,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+5,17,0,12,1,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743
+5,17,0,12,2,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574
+5,17,0,12,3,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+5,17,1,12,0,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588
+5,17,1,12,1,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514
+5,17,1,12,2,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393
+5,17,1,12,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+5,17,2,12,0,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+5,17,2,12,1,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505
+5,17,2,12,2,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+5,17,2,12,3,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430
+5,17,3,12,0,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+5,17,3,12,1,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+5,17,3,12,2,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381
+5,17,3,12,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319
+5,17,4,12,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+5,17,4,12,1,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+5,17,4,12,2,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+5,17,4,12,3,Dallas,Dallas Destiny,Pacific,Artur Safin,2229,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+5,17,5,12,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+5,17,5,12,1,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176
+5,17,5,12,2,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530,Marseille,Marseille Migraines,Central,Remy Degraeve,2171
+5,17,5,12,3,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988
+5,17,6,12,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643
+5,17,6,12,1,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+5,17,6,12,2,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509
+5,17,6,12,3,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144
+5,17,7,12,0,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+5,17,7,12,1,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421
+5,17,7,12,2,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378
+5,17,7,12,3,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304
+6,20,0,15,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638
+6,20,0,15,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+6,20,0,15,2,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391
+6,20,0,15,3,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342
+6,20,1,15,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+6,20,1,15,1,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577
+6,20,1,15,2,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568
+6,20,1,15,3,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+6,20,2,15,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539
+6,20,2,15,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+6,20,2,15,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+6,20,2,15,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385
+6,20,3,15,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602
+6,20,3,15,1,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531
+6,20,3,15,2,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404
+6,20,3,15,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+6,20,4,15,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+6,20,4,15,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547
+6,20,4,15,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530
+6,20,4,15,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179
+6,20,5,15,0,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+6,20,5,15,1,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662
+6,20,5,15,2,Marseille,Marseille Migraines,Central,Remy Degraeve,2171,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621
+6,20,5,15,3,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983
+6,20,6,15,0,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600
+6,20,6,15,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524
+6,20,6,15,2,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421
+6,20,6,15,3,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753
+6,20,7,15,0,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+6,20,7,15,1,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574
+6,20,7,15,2,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522
+6,20,7,15,3,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304,Dallas,Dallas Destiny,Pacific,Artur Safin,2229
+7,23,0,18,0,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+7,23,0,18,1,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505
+7,23,0,18,2,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+7,23,0,18,3,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430
+7,23,1,18,0,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+7,23,1,18,1,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+7,23,1,18,2,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381
+7,23,1,18,3,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319
+7,23,2,18,0,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+7,23,2,18,1,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743
+7,23,2,18,2,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574
+7,23,2,18,3,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+7,23,3,18,0,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588
+7,23,3,18,1,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514
+7,23,3,18,2,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393
+7,23,3,18,3,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+7,23,4,18,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646
+7,23,4,18,1,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544
+7,23,4,18,2,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542
+7,23,4,18,3,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114
+7,23,5,18,0,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561
+7,23,5,18,1,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176
+7,23,5,18,2,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421,Marseille,Marseille Migraines,Central,Remy Degraeve,2171
+7,23,5,18,3,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988
+7,23,6,18,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643
+7,23,6,18,1,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532
+7,23,6,18,2,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509
+7,23,6,18,3,Dallas,Dallas Destiny,Pacific,Artur Safin,2229,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144
+7,23,7,18,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433
+7,23,7,18,1,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421
+7,23,7,18,2,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378
+7,23,7,18,3,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304
+8,26,0,21,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,Delhi,Delhi Dynamite,Eastern,Salem Saleh,2638
+8,26,0,21,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,Delhi,Delhi Dynamite,Eastern,M R Lalith Babu,2525
+8,26,0,21,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Mika Brattain,2381,Delhi,Delhi Dynamite,Eastern,Tania Sachdev,2391
+8,26,0,21,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Edward Song,2319,Delhi,Delhi Dynamite,Eastern,Hemant Sharma,2342
+8,26,1,21,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Armenia,Armenia Eagles,Eastern,Zaven Andriasyan,2593
+8,26,1,21,1,Chengdu,Chengdu Pandas,Pacific,Li Chao,2743,Armenia,Armenia Eagles,Eastern,Samvel Ter-Sahakyan,2577
+8,26,1,21,2,Chengdu,Chengdu Pandas,Pacific,Ju Wenjun,2574,Armenia,Armenia Eagles,Eastern,Karen Grigoryan,2568
+8,26,1,21,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Armenia,Armenia Eagles,Eastern,Artak Manukyan,2196
+8,26,2,21,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Federico Perez Ponsa,2588,Reykjavik,Reykjavik Puffins,Central,Johann Hjartarson,2539
+8,26,2,21,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Andres Carlos Obregon,2514,Reykjavik,Reykjavik Puffins,Central,Helgi Olafsson,2512
+8,26,2,21,2,Buenos Aires,Buenos Aires Krakens,Atlantic,Maximiliano Perez,2393,Reykjavik,Reykjavik Puffins,Central,Hannes Stefansson,2508
+8,26,2,21,3,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,Reykjavik,Reykjavik Puffins,Central,David Kjartansson,2385
+8,26,3,21,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,Cannes,Cannes Blockbusters,Central,Matthieu Cornette,2602
+8,26,3,21,1,Montclair,Montclair Sopranos,Atlantic,Pascal Charbonneau,2505,Cannes,Cannes Blockbusters,Central,Fabien Libiszewski,2531
+8,26,3,21,2,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,Cannes,Cannes Blockbusters,Central,Deimante Cornette,2404
+8,26,3,21,3,Montclair,Montclair Sopranos,Atlantic,Advait Patel,2430,Cannes,Cannes Blockbusters,Central,Kevin Bordi,2282
+8,26,4,21,0,Ljubljana,Ljubljana Turtles,Central,Luka Lenic,2646,Rio Grande,Rio Grande Ospreys,Pacific,Oleksandr Bortnyk,2600
+8,26,4,21,1,Ljubljana,Ljubljana Turtles,Central,Jure Skoberne,2544,Rio Grande,Rio Grande Ospreys,Pacific,Bartlomiej Macieja,2524
+8,26,4,21,2,Ljubljana,Ljubljana Turtles,Central,Matej Sebenik,2542,Rio Grande,Rio Grande Ospreys,Pacific,Max Cornejo,2421
+8,26,4,21,3,Ljubljana,Ljubljana Turtles,Central,Luka Skuhala,2114,Rio Grande,Rio Grande Ospreys,Pacific,Rohun Trakru,1753
+8,26,5,21,0,Marseille,Marseille Migraines,Central,Jean-Marc Degraeve,2561,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+8,26,5,21,1,Marseille,Marseille Migraines,Central,Alexandre Bacrot,2176,Dallas,Dallas Destiny,Pacific,Julio Sadorra,2574
+8,26,5,21,2,Marseille,Marseille Migraines,Central,Remy Degraeve,2171,Dallas,Dallas Destiny,Pacific,Andrey Gorovets,2522
+8,26,5,21,3,Marseille,Marseille Migraines,Central,Michel Bonnafous,1988,Dallas,Dallas Destiny,Pacific,Artur Safin,2229
+8,26,6,21,0,Mumbai,Mumbai Movers,Eastern,B. Adhiban,2643,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+8,26,6,21,1,Mumbai,Mumbai Movers,Eastern,Swapnil Dhopade,2532,Seattle,Seattle Sluggers,Pacific,Victor Mikhalevski,2547
+8,26,6,21,2,Mumbai,Mumbai Movers,Eastern,Abhimanyu Puranik,2509,Seattle,Seattle Sluggers,Pacific,Giorgi Margvelashvili,2530
+8,26,6,21,3,Mumbai,Mumbai Movers,Eastern,Dharia Parnali,2144,Seattle,Seattle Sluggers,Pacific,Megan Lee,2179
+8,26,7,21,0,Volga,Volga Stormbringers,Eastern,Azat Sharafiev,2433,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+8,26,7,21,1,Volga,Volga Stormbringers,Eastern,Mikhail Gorozhanin,2421,St. Louis,St. Louis Arch Bishops,Atlantic,Varuzhan Akobian,2662
+8,26,7,21,2,Volga,Volga Stormbringers,Eastern,Mikhail Kuznecov,2378,St. Louis,St. Louis Arch Bishops,Atlantic,Yaroslav Zherebukh,2621
+8,26,7,21,3,Volga,Volga Stormbringers,Eastern,Vitaly Rodchenkov,2304,St. Louis,St. Louis Arch Bishops,Atlantic,Forest Chen,1983

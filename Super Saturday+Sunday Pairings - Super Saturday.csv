@@ -1,0 +1,257 @@
+Round,Round offset,Column offset,Row offset,Board offset,Team 1,Team 1 full name,Team 1 division,Player 1,Rating 1,Team 2,Team 2 full name,Team 2 division,Player 2,Rating 2
+1,6,0,0,0,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797
+1,6,0,0,1,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678
+1,6,0,0,2,Miami,Miami Champions,Atlantic,Michael Rohde,2387,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601
+1,6,0,0,3,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918
+1,6,1,0,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+1,6,1,0,1,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674
+1,6,1,0,2,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549
+1,6,1,0,3,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+1,6,2,0,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+1,6,2,0,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565
+1,6,2,0,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468
+1,6,2,0,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292
+1,6,3,0,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+1,6,3,0,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615
+1,6,3,0,2,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481
+1,6,3,0,3,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169
+1,6,4,0,0,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+1,6,4,0,1,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+1,6,4,0,2,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465
+1,6,4,0,3,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459
+1,6,5,0,0,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646
+1,6,5,0,1,San Diego,San Diego Surfers,Pacific,Michael Brown,2499,Webster,Webster Windmills,Atlantic,Denes Boros,2475
+1,6,5,0,2,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474
+1,6,5,0,3,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358
+1,6,6,0,0,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488
+1,6,6,0,1,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471
+1,6,6,0,2,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449
+1,6,6,0,3,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444
+1,6,7,0,0,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629
+1,6,7,0,1,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479
+1,6,7,0,2,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421
+1,6,7,0,3,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385
+2,9,0,3,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665
+2,9,0,3,1,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619
+2,9,0,3,2,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549,Miami,Miami Champions,Atlantic,Michael Rohde,2387
+2,9,0,3,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164
+2,9,1,3,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+2,9,1,3,1,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731
+2,9,1,3,2,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563
+2,9,1,3,3,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090
+2,9,2,3,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+2,9,2,3,1,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+2,9,2,3,2,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403
+2,9,2,3,3,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363
+2,9,3,3,0,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565
+2,9,3,3,1,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445
+2,9,3,3,2,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+2,9,3,3,3,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344
+2,9,4,3,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648
+2,9,4,3,1,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,San Diego,San Diego Surfers,Pacific,Michael Brown,2499
+2,9,4,3,2,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428
+2,9,4,3,3,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373
+2,9,5,3,0,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739
+2,9,5,3,1,Webster,Webster Windmills,Atlantic,Denes Boros,2475,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547
+2,9,5,3,2,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526
+2,9,5,3,3,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139
+2,9,6,3,0,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573
+2,9,6,3,1,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566
+2,9,6,3,2,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441
+2,9,6,3,3,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418
+2,9,7,3,0,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606
+2,9,7,3,1,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541
+2,9,7,3,2,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508
+2,9,7,3,3,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319
+3,12,0,6,0,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+3,12,0,6,1,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565
+3,12,0,6,2,Miami,Miami Champions,Atlantic,Michael Rohde,2387,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468
+3,12,0,6,3,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292
+3,12,1,6,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+3,12,1,6,1,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615
+3,12,1,6,2,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481
+3,12,1,6,3,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169
+3,12,2,6,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797
+3,12,2,6,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678
+3,12,2,6,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601
+3,12,2,6,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918
+3,12,3,6,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+3,12,3,6,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674
+3,12,3,6,2,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549
+3,12,3,6,3,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+3,12,4,6,0,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+3,12,4,6,1,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+3,12,4,6,2,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465
+3,12,4,6,3,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459
+3,12,5,6,0,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646
+3,12,5,6,1,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566,Webster,Webster Windmills,Atlantic,Denes Boros,2475
+3,12,5,6,2,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474
+3,12,5,6,3,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358
+3,12,6,6,0,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488
+3,12,6,6,1,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471
+3,12,6,6,2,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449
+3,12,6,6,3,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444
+3,12,7,6,0,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629
+3,12,7,6,1,San Diego,San Diego Surfers,Pacific,Michael Brown,2499,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479
+3,12,7,6,2,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421
+3,12,7,6,3,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385
+4,15,0,9,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665
+4,15,0,9,1,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619
+4,15,0,9,2,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481,Miami,Miami Champions,Atlantic,Michael Rohde,2387
+4,15,0,9,3,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164
+4,15,1,9,0,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+4,15,1,9,1,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731
+4,15,1,9,2,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563
+4,15,1,9,3,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090
+4,15,2,9,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+4,15,2,9,1,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+4,15,2,9,2,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403
+4,15,2,9,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363
+4,15,3,9,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565
+4,15,3,9,1,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445
+4,15,3,9,2,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+4,15,3,9,3,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344
+4,15,4,9,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573
+4,15,4,9,1,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566
+4,15,4,9,2,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441
+4,15,4,9,3,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418
+4,15,5,9,0,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606
+4,15,5,9,1,Webster,Webster Windmills,Atlantic,Denes Boros,2475,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541
+4,15,5,9,2,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508
+4,15,5,9,3,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319
+4,15,6,9,0,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648
+4,15,6,9,1,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471,San Diego,San Diego Surfers,Pacific,Michael Brown,2499
+4,15,6,9,2,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428
+4,15,6,9,3,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373
+4,15,7,9,0,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739
+4,15,7,9,1,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547
+4,15,7,9,2,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526
+4,15,7,9,3,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139
+5,18,0,12,0,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606
+5,18,0,12,1,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541
+5,18,0,12,2,Miami,Miami Champions,Atlantic,Michael Rohde,2387,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508
+5,18,0,12,3,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319
+5,18,1,12,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648
+5,18,1,12,1,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731,San Diego,San Diego Surfers,Pacific,Michael Brown,2499
+5,18,1,12,2,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428
+5,18,1,12,3,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373
+5,18,2,12,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739
+5,18,2,12,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547
+5,18,2,12,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526
+5,18,2,12,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139
+5,18,3,12,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573
+5,18,3,12,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566
+5,18,3,12,2,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441
+5,18,3,12,3,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418
+5,18,4,12,0,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+5,18,4,12,1,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+5,18,4,12,2,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465
+5,18,4,12,3,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459
+5,18,5,12,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646
+5,18,5,12,1,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674,Webster,Webster Windmills,Atlantic,Denes Boros,2475
+5,18,5,12,2,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474
+5,18,5,12,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358
+5,18,6,12,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488
+5,18,6,12,1,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471
+5,18,6,12,2,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449
+5,18,6,12,3,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444
+5,18,7,12,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629
+5,18,7,12,1,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479
+5,18,7,12,2,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421
+5,18,7,12,3,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385
+6,21,0,15,0,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665
+6,21,0,15,1,San Diego,San Diego Surfers,Pacific,Michael Brown,2499,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619
+6,21,0,15,2,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428,Miami,Miami Champions,Atlantic,Michael Rohde,2387
+6,21,0,15,3,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164
+6,21,1,15,0,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+6,21,1,15,1,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731
+6,21,1,15,2,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563
+6,21,1,15,3,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090
+6,21,2,15,0,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+6,21,2,15,1,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+6,21,2,15,2,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403
+6,21,2,15,3,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363
+6,21,3,15,0,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565
+6,21,3,15,1,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445
+6,21,3,15,2,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+6,21,3,15,3,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344
+6,21,4,15,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+6,21,4,15,1,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674
+6,21,4,15,2,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549
+6,21,4,15,3,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+6,21,5,15,0,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+6,21,5,15,1,Webster,Webster Windmills,Atlantic,Denes Boros,2475,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565
+6,21,5,15,2,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468
+6,21,5,15,3,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292
+6,21,6,15,0,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+6,21,6,15,1,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615
+6,21,6,15,2,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481
+6,21,6,15,3,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169
+6,21,7,15,0,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797
+6,21,7,15,1,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678
+6,21,7,15,2,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601
+6,21,7,15,3,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918
+7,24,0,18,0,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739
+7,24,0,18,1,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547
+7,24,0,18,2,Miami,Miami Champions,Atlantic,Michael Rohde,2387,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526
+7,24,0,18,3,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139
+7,24,1,18,0,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573
+7,24,1,18,1,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566
+7,24,1,18,2,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441
+7,24,1,18,3,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418
+7,24,2,18,0,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606
+7,24,2,18,1,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541
+7,24,2,18,2,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508
+7,24,2,18,3,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319
+7,24,3,18,0,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648
+7,24,3,18,1,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445,San Diego,San Diego Surfers,Pacific,Michael Brown,2499
+7,24,3,18,2,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428
+7,24,3,18,3,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373
+7,24,4,18,0,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565
+7,24,4,18,1,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496
+7,24,4,18,2,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465
+7,24,4,18,3,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459
+7,24,5,18,0,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646
+7,24,5,18,1,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615,Webster,Webster Windmills,Atlantic,Denes Boros,2475
+7,24,5,18,2,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474
+7,24,5,18,3,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358
+7,24,6,18,0,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488
+7,24,6,18,1,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471
+7,24,6,18,2,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449
+7,24,6,18,3,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444
+7,24,7,18,0,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629
+7,24,7,18,1,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479
+7,24,7,18,2,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421
+7,24,7,18,3,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385
+8,27,0,21,0,Rio Grande,Rio Grande Ospreys,Pacific,Hovhannes Gabuzyan,2573,Miami,Miami Champions,Atlantic,Eduardo Iturrizaga,2665
+8,27,0,21,1,Rio Grande,Rio Grande Ospreys,Pacific,Vladimir Belous,2566,Miami,Miami Champions,Atlantic,Yuniesky Quesada,2619
+8,27,0,21,2,Rio Grande,Rio Grande Ospreys,Pacific,Guillermo Vazquez,2441,Miami,Miami Champions,Atlantic,Michael Rohde,2387
+8,27,0,21,3,Rio Grande,Rio Grande Ospreys,Pacific,Felix Ynojosa,2418,Miami,Miami Champions,Atlantic,Nicholas Rosenthal,2164
+8,27,1,21,0,Australia,Australia Kangaroos,Pacific,Evgenij Miroshnichenko,2606,St. Louis,St. Louis Arch Bishops,Atlantic,Fabiano Caruana,2799
+8,27,1,21,1,Australia,Australia Kangaroos,Pacific,Alexey Sarana,2541,St. Louis,St. Louis Arch Bishops,Atlantic,Vladimir Fedoseev,2731
+8,27,1,21,2,Australia,Australia Kangaroos,Pacific,Anton Smirnov,2508,St. Louis,St. Louis Arch Bishops,Atlantic,Alejandro Ramirez,2563
+8,27,1,21,3,Australia,Australia Kangaroos,Pacific,Brandon Clarke,2319,St. Louis,St. Louis Arch Bishops,Atlantic,Annie Wang,2090
+8,27,2,21,0,San Diego,San Diego Surfers,Pacific,Alexey Dreev,2648,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Awonder Liang,2545
+8,27,2,21,1,San Diego,San Diego Surfers,Pacific,Michael Brown,2499,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Tuan Minh Le,2485
+8,27,2,21,2,San Diego,San Diego Surfers,Pacific,John Daniel Bryant,2428,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Atulya Shetty,2403
+8,27,2,21,3,San Diego,San Diego Surfers,Pacific,Joshua Sheng,2373,Pittsburgh,Pittsburgh Pawngrabbers,Atlantic,Safal Bora,2363
+8,27,3,21,0,Las Vegas,Las Vegas Desert Rats,Pacific,Leinier Dominguez,2739,Buenos Aires,Buenos Aires Krakens,Atlantic,Alan Pichot,2565
+8,27,3,21,1,Las Vegas,Las Vegas Desert Rats,Pacific,Joshua Friedel,2547,Buenos Aires,Buenos Aires Krakens,Atlantic,Mario Villanueva,2445
+8,27,3,21,2,Las Vegas,Las Vegas Desert Rats,Pacific,Melikset Khachiyan,2526,Buenos Aires,Buenos Aires Krakens,Atlantic,German Della Morte,2362
+8,27,3,21,3,Las Vegas,Las Vegas Desert Rats,Pacific,Eugene Yanayt,2139,Buenos Aires,Buenos Aires Krakens,Atlantic,Jacques Blit,2344
+8,27,4,21,0,Montclair,Montclair Sopranos,Atlantic,Aleksandr Lenderman,2565,Seattle,Seattle Sluggers,Pacific,Hikaru Nakamura,2781
+8,27,4,21,1,Montclair,Montclair Sopranos,Atlantic,Anatoly Bykhovsky,2496,Seattle,Seattle Sluggers,Pacific,Tigran Petrosian,2615
+8,27,4,21,2,Montclair,Montclair Sopranos,Atlantic,Mackenzie Molner,2465,Seattle,Seattle Sluggers,Pacific,Georgi Orlov,2481
+8,27,4,21,3,Montclair,Montclair Sopranos,Atlantic,Nicolas Checa,2459,Seattle,Seattle Sluggers,Pacific,Kyle Haining,2169
+8,27,5,21,0,Webster,Webster Windmills,Atlantic,Aleksandr Shimanov,2646,San Jose,San Jose Hackers,Pacific,Shakhriyar Mamedyarov,2797
+8,27,5,21,1,Webster,Webster Windmills,Atlantic,Denes Boros,2475,San Jose,San Jose Hackers,Pacific,Rauf Mamedov,2678
+8,27,5,21,2,Webster,Webster Windmills,Atlantic,Ashwin Jayaram,2474,San Jose,San Jose Hackers,Pacific,Zviad Izoria,2601
+8,27,5,21,3,Webster,Webster Windmills,Atlantic,Aaron Grabinsky,2358,San Jose,San Jose Hackers,Pacific,Vinesh Ravuri,1918
+8,27,6,21,0,Minnesota,Minnesota Blizzard,Atlantic,Andrew Tang,2488,Chengdu,Chengdu Pandas,Pacific,Yu Yangyi,2750
+8,27,6,21,1,Minnesota,Minnesota Blizzard,Atlantic,Daniel Gurevich,2471,Chengdu,Chengdu Pandas,Pacific,Ni Hua,2674
+8,27,6,21,2,Minnesota,Minnesota Blizzard,Atlantic,John Bartholomew,2449,Chengdu,Chengdu Pandas,Pacific,Xu Xiangyu,2549
+8,27,6,21,3,Minnesota,Minnesota Blizzard,Atlantic,Nikola Mitkov,2444,Chengdu,Chengdu Pandas,Pacific,Chu Ruotong,2173
+8,27,7,21,0,Montreal,Montreal Chessbrahs,Atlantic,Eric Hansen,2629,Dallas,Dallas Destiny,Pacific,Jeffery Xiong,2633
+8,27,7,21,1,Montreal,Montreal Chessbrahs,Atlantic,Aman Hambleton,2479,Dallas,Dallas Destiny,Pacific,Conrad Holt,2565
+8,27,7,21,2,Montreal,Montreal Chessbrahs,Atlantic,Raja Panjwani,2421,Dallas,Dallas Destiny,Pacific,Luke Harmon-Vellotti,2468
+8,27,7,21,3,Montreal,Montreal Chessbrahs,Atlantic,Shiyam Thavandiran,2385,Dallas,Dallas Destiny,Pacific,Steven Breckenridge,2292

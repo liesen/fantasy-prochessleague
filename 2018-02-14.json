@@ -1,0 +1,3134 @@
+[
+    {
+        "start": "First Match Starts: 8:00 PST",
+        "division": "Eastern Division",
+        "background": "#dc8b4e",
+        "divisionList": [
+            {
+                "name": "\t\tRiga\t\t",
+                "surname": "\t\tMagicians\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Riga_Magicians.png\t\t",
+                "name2": "\t\tDelhi\t\t",
+                "surname2": "\t\tDynamite\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Dehli_Dynamite.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIgor Kovalenko\t\t",
+                                "rating": "\t\t2634\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tArturs Neiksans\t\t",
+                                "rating": "\t\t2584\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNoel Studer\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tSergejs Klimakovs\t\t",
+                                "rating": "\t\t2302\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tSrija Seshadri\t\t",
+                                "rating": "\t\t2203\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaibhav Suri\t\t",
+                                "rating": "\t\t2560\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAbhijeet Gupta\t\t",
+                                "rating": "\t\t2619\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHarikrishna Pentala\t\t",
+                                "rating": "\t\t2741\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIgor Kovalenko\t\t",
+                                "rating": "\t\t2634\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tArturs Neiksans\t\t",
+                                "rating": "\t\t2584\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNoel Studer\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tSergejs Klimakovs\t\t",
+                                "rating": "\t\t2302\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaibhav Suri\t\t",
+                                "rating": "\t\t2560\t\t"
+                            },
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tSrija Seshadri\t\t",
+                                "rating": "\t\t2203\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHarikrishna Pentala\t\t",
+                                "rating": "\t\t2741\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAbhijeet Gupta\t\t",
+                                "rating": "\t\t2619\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIgor Kovalenko\t\t",
+                                "rating": "\t\t2634\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tArturs Neiksans\t\t",
+                                "rating": "\t\t2584\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNoel Studer\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tSergejs Klimakovs\t\t",
+                                "rating": "\t\t2302\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAbhijeet Gupta\t\t",
+                                "rating": "\t\t2619\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHarikrishna Pentala\t\t",
+                                "rating": "\t\t2741\t\t"
+                            },
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tSrija Seshadri\t\t",
+                                "rating": "\t\t2203\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaibhav Suri\t\t",
+                                "rating": "\t\t2560\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIgor Kovalenko\t\t",
+                                "rating": "\t\t2634\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tArturs Neiksans\t\t",
+                                "rating": "\t\t2584\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNoel Studer\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tSergejs Klimakovs\t\t",
+                                "rating": "\t\t2302\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHarikrishna Pentala\t\t",
+                                "rating": "\t\t2741\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAbhijeet Gupta\t\t",
+                                "rating": "\t\t2619\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaibhav Suri\t\t",
+                                "rating": "\t\t2560\t\t"
+                            },
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tSrija Seshadri\t\t",
+                                "rating": "\t\t2203\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tVolga\t\t",
+                "surname": "\t\tStormbringers\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Gorky_Stormbringers.png\t\t",
+                "name2": "\t\tMumbai\t\t",
+                "surname2": "\t\tMovers\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Mumbai_Movers.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDmitry Andreikin\t\t",
+                                "rating": "\t\t2708\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMikhail Demidov\t\t",
+                                "rating": "\t\t2521\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNodirbek Abdusattorov\t\t",
+                                "rating": "\t\t2486\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tAleksey Ivlev\t\t",
+                                "rating": "\t\t2259\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKathmale Sameer\t\t",
+                                "rating": "\t\t2255\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tKulkarni Rakesh\t\t",
+                                "rating": "\t\t2281\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVidit Gujrathi\t\t",
+                                "rating": "\t\t2702\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tViswanathan Anand\t\t",
+                                "rating": "\t\t2794\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDmitry Andreikin\t\t",
+                                "rating": "\t\t2708\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMikhail Demidov\t\t",
+                                "rating": "\t\t2521\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNodirbek Abdusattorov\t\t",
+                                "rating": "\t\t2486\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tAleksey Ivlev\t\t",
+                                "rating": "\t\t2259\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tKulkarni Rakesh\t\t",
+                                "rating": "\t\t2281\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKathmale Sameer\t\t",
+                                "rating": "\t\t2255\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tViswanathan Anand\t\t",
+                                "rating": "\t\t2794\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVidit Gujrathi\t\t",
+                                "rating": "\t\t2702\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDmitry Andreikin\t\t",
+                                "rating": "\t\t2708\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMikhail Demidov\t\t",
+                                "rating": "\t\t2521\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNodirbek Abdusattorov\t\t",
+                                "rating": "\t\t2486\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tAleksey Ivlev\t\t",
+                                "rating": "\t\t2259\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVidit Gujrathi\t\t",
+                                "rating": "\t\t2702\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tViswanathan Anand\t\t",
+                                "rating": "\t\t2794\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKathmale Sameer\t\t",
+                                "rating": "\t\t2255\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tKulkarni Rakesh\t\t",
+                                "rating": "\t\t2281\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDmitry Andreikin\t\t",
+                                "rating": "\t\t2708\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMikhail Demidov\t\t",
+                                "rating": "\t\t2521\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNodirbek Abdusattorov\t\t",
+                                "rating": "\t\t2486\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tAleksey Ivlev\t\t",
+                                "rating": "\t\t2259\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tViswanathan Anand\t\t",
+                                "rating": "\t\t2794\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVidit Gujrathi\t\t",
+                                "rating": "\t\t2702\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tKulkarni Rakesh\t\t",
+                                "rating": "\t\t2281\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKathmale Sameer\t\t",
+                                "rating": "\t\t2255\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tOslo\t\t",
+                "surname": "\t\tTrolls\t\t",
+                "img": "\t\thttps://www.prochessleague.com/uploads/3/0/5/7/30579463/oslo-trolls_1_orig.png\t\t",
+                "name2": "\t\tEstonia\t\t",
+                "surname2": "\t\tHorses\t\t",
+                "img2": "\t\thttps://www.prochessleague.com/uploads/3/0/5/7/30579463/estonia-horses_orig.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tFrode Urkedal\t\t",
+                                "rating": "\t\t2570\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRoeland Pruijssers\t\t",
+                                "rating": "\t\t2507\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tBenjamin Haldorsen\t\t",
+                                "rating": "\t\t2397\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJohannes Haug\t\t",
+                                "rating": "\t\t2379\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tSander Kukk\t\t",
+                                "rating": "\t\t2178\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJaan Ehlvest\t\t",
+                                "rating": "\t\t2536\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOttomar Ladva\t\t",
+                                "rating": "\t\t2543\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAvital Boruchovsky \t\t",
+                                "rating": "\t\t2565\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tFrode Urkedal\t\t",
+                                "rating": "\t\t2570\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRoeland Pruijssers\t\t",
+                                "rating": "\t\t2507\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tBenjamin Haldorsen\t\t",
+                                "rating": "\t\t2397\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJohannes Haug\t\t",
+                                "rating": "\t\t2379\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJaan Ehlvest\t\t",
+                                "rating": "\t\t2536\t\t"
+                            },
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tSander Kukk\t\t",
+                                "rating": "\t\t2178\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAvital Boruchovsky \t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOttomar Ladva\t\t",
+                                "rating": "\t\t2543\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tFrode Urkedal\t\t",
+                                "rating": "\t\t2570\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRoeland Pruijssers\t\t",
+                                "rating": "\t\t2507\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tBenjamin Haldorsen\t\t",
+                                "rating": "\t\t2397\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJohannes Haug\t\t",
+                                "rating": "\t\t2379\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOttomar Ladva\t\t",
+                                "rating": "\t\t2543\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAvital Boruchovsky \t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tSander Kukk\t\t",
+                                "rating": "\t\t2178\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJaan Ehlvest\t\t",
+                                "rating": "\t\t2536\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tFrode Urkedal\t\t",
+                                "rating": "\t\t2570\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRoeland Pruijssers\t\t",
+                                "rating": "\t\t2507\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tBenjamin Haldorsen\t\t",
+                                "rating": "\t\t2397\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJohannes Haug\t\t",
+                                "rating": "\t\t2379\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAvital Boruchovsky \t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOttomar Ladva\t\t",
+                                "rating": "\t\t2543\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJaan Ehlvest\t\t",
+                                "rating": "\t\t2536\t\t"
+                            },
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tSander Kukk\t\t",
+                                "rating": "\t\t2178\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tNorway\t\t",
+                "surname": "\t\tGnomes\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Norway_Gnomes.png\t\t",
+                "name2": "\t\tArmenia\t\t",
+                "surname2": "\t\tEagles\t\t",
+                "img2": "\t\thttps://www.prochessleague.com/uploads/3/0/5/7/30579463/armenia-eagles_1_orig.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNils Grandelius\t\t",
+                                "rating": "\t\t2653\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJon Ludvig Hammer\t\t",
+                                "rating": "\t\t2632\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEvgeny Romanov\t\t",
+                                "rating": "\t\t2626\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tElham Abdrlauf\t\t",
+                                "rating": "\t\t1899\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tArtak Manukyan\t\t",
+                                "rating": "\t\t2196\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tManuel Petrosyan\t\t",
+                                "rating": "\t\t2559\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tSamvel Ter-Sahakyan\t\t",
+                                "rating": "\t\t2577\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZaven Andriasyan\t\t",
+                                "rating": "\t\t2593\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNils Grandelius\t\t",
+                                "rating": "\t\t2653\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJon Ludvig Hammer\t\t",
+                                "rating": "\t\t2632\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEvgeny Romanov\t\t",
+                                "rating": "\t\t2626\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tElham Abdrlauf\t\t",
+                                "rating": "\t\t1899\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tManuel Petrosyan\t\t",
+                                "rating": "\t\t2559\t\t"
+                            },
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tArtak Manukyan\t\t",
+                                "rating": "\t\t2196\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZaven Andriasyan\t\t",
+                                "rating": "\t\t2593\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tSamvel Ter-Sahakyan\t\t",
+                                "rating": "\t\t2577\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNils Grandelius\t\t",
+                                "rating": "\t\t2653\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJon Ludvig Hammer\t\t",
+                                "rating": "\t\t2632\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEvgeny Romanov\t\t",
+                                "rating": "\t\t2626\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tElham Abdrlauf\t\t",
+                                "rating": "\t\t1899\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tSamvel Ter-Sahakyan\t\t",
+                                "rating": "\t\t2577\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZaven Andriasyan\t\t",
+                                "rating": "\t\t2593\t\t"
+                            },
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tArtak Manukyan\t\t",
+                                "rating": "\t\t2196\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tManuel Petrosyan\t\t",
+                                "rating": "\t\t2559\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tNils Grandelius\t\t",
+                                "rating": "\t\t2653\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJon Ludvig Hammer\t\t",
+                                "rating": "\t\t2632\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEvgeny Romanov\t\t",
+                                "rating": "\t\t2626\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tElham Abdrlauf\t\t",
+                                "rating": "\t\t1899\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZaven Andriasyan\t\t",
+                                "rating": "\t\t2593\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tSamvel Ter-Sahakyan\t\t",
+                                "rating": "\t\t2577\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tManuel Petrosyan\t\t",
+                                "rating": "\t\t2559\t\t"
+                            },
+                            {
+                                "rank": "\t\tCM\t\t",
+                                "name": "\t\tArtak Manukyan\t\t",
+                                "rating": "\t\t2196\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start": "First Match Starts: 11:15 PST",
+        "division": "Central Division",
+        "background": "#519246",
+        "divisionList": [
+            {
+                "name": "\t\tMarseille\t\t",
+                "surname": "\t\tMigraines\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Marseille_Migraines.png\t\t",
+                "name2": "\t\tStockholm\t\t",
+                "surname2": "\t\tSnowballs\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Stockholm_Snowballs.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMaxime Vachier-Lagrave\t\t",
+                                "rating": "\t\t2804\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYannick Gozzoli\t\t",
+                                "rating": "\t\t2582\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJules Moussard\t\t",
+                                "rating": "\t\t2571\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMarc Andria Maurizzi\t\t",
+                                "rating": "\t\t1947\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tInna Agrest\t\t",
+                                "rating": "\t\t2271\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tVincent Keymer\t\t",
+                                "rating": "\t\t2419\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGeorg Meier\t\t",
+                                "rating": "\t\t2651\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBaadur Jobava\t\t",
+                                "rating": "\t\t2702\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMaxime Vachier-Lagrave\t\t",
+                                "rating": "\t\t2804\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYannick Gozzoli\t\t",
+                                "rating": "\t\t2582\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJules Moussard\t\t",
+                                "rating": "\t\t2571\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMarc Andria Maurizzi\t\t",
+                                "rating": "\t\t1947\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tVincent Keymer\t\t",
+                                "rating": "\t\t2419\t\t"
+                            },
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tInna Agrest\t\t",
+                                "rating": "\t\t2271\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBaadur Jobava\t\t",
+                                "rating": "\t\t2702\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGeorg Meier\t\t",
+                                "rating": "\t\t2651\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMaxime Vachier-Lagrave\t\t",
+                                "rating": "\t\t2804\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYannick Gozzoli\t\t",
+                                "rating": "\t\t2582\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJules Moussard\t\t",
+                                "rating": "\t\t2571\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMarc Andria Maurizzi\t\t",
+                                "rating": "\t\t1947\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGeorg Meier\t\t",
+                                "rating": "\t\t2651\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBaadur Jobava\t\t",
+                                "rating": "\t\t2702\t\t"
+                            },
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tInna Agrest\t\t",
+                                "rating": "\t\t2271\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tVincent Keymer\t\t",
+                                "rating": "\t\t2419\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMaxime Vachier-Lagrave\t\t",
+                                "rating": "\t\t2804\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYannick Gozzoli\t\t",
+                                "rating": "\t\t2582\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJules Moussard\t\t",
+                                "rating": "\t\t2571\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMarc Andria Maurizzi\t\t",
+                                "rating": "\t\t1947\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBaadur Jobava\t\t",
+                                "rating": "\t\t2702\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGeorg Meier\t\t",
+                                "rating": "\t\t2651\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tVincent Keymer\t\t",
+                                "rating": "\t\t2419\t\t"
+                            },
+                            {
+                                "rank": "\t\tWIM\t\t",
+                                "name": "\t\tInna Agrest\t\t",
+                                "rating": "\t\t2271\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tLjubljana\t\t",
+                "surname": "\t\tTurtles\t\t",
+                "img": "\t\thttps://www.prochessleague.com/uploads/3/0/5/7/30579463/ljubljana-turtles_orig.png\t\t",
+                "name2": "\t\tAmsterdam\t\t",
+                "surname2": "\t\tMosquitoes\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Amsterdam_Mosquitos.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLuka Lenic\t\t",
+                                "rating": "\t\t2646\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJure Borisek\t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDusko Pavasovic\t\t",
+                                "rating": "\t\t2548\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tLuka Skuhala\t\t",
+                                "rating": "\t\t2114\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJasel Lopez\t\t",
+                                "rating": "\t\t2279\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tQuinten Ducarmon\t\t",
+                                "rating": "\t\t2473\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDavid Klein\t\t",
+                                "rating": "\t\t2491\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLoek van Wely\t\t",
+                                "rating": "\t\t2661\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLuka Lenic\t\t",
+                                "rating": "\t\t2646\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJure Borisek\t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDusko Pavasovic\t\t",
+                                "rating": "\t\t2548\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tLuka Skuhala\t\t",
+                                "rating": "\t\t2114\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tQuinten Ducarmon\t\t",
+                                "rating": "\t\t2473\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJasel Lopez\t\t",
+                                "rating": "\t\t2279\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLoek van Wely\t\t",
+                                "rating": "\t\t2661\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDavid Klein\t\t",
+                                "rating": "\t\t2491\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLuka Lenic\t\t",
+                                "rating": "\t\t2646\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJure Borisek\t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDusko Pavasovic\t\t",
+                                "rating": "\t\t2548\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tLuka Skuhala\t\t",
+                                "rating": "\t\t2114\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDavid Klein\t\t",
+                                "rating": "\t\t2491\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLoek van Wely\t\t",
+                                "rating": "\t\t2661\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJasel Lopez\t\t",
+                                "rating": "\t\t2279\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tQuinten Ducarmon\t\t",
+                                "rating": "\t\t2473\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLuka Lenic\t\t",
+                                "rating": "\t\t2646\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJure Borisek\t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDusko Pavasovic\t\t",
+                                "rating": "\t\t2548\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tLuka Skuhala\t\t",
+                                "rating": "\t\t2114\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLoek van Wely\t\t",
+                                "rating": "\t\t2661\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDavid Klein\t\t",
+                                "rating": "\t\t2491\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tQuinten Ducarmon\t\t",
+                                "rating": "\t\t2473\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tJasel Lopez\t\t",
+                                "rating": "\t\t2279\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tReykjavik\t\t",
+                "surname": "\t\tPuffins\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Reykjavik_Puffins.png\t\t",
+                "name2": "\t\tCannes\t\t",
+                "surname2": "\t\tBlockbusters\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Cannes_Blockbusters.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHjorvar Steinn Gretarsson\t\t",
+                                "rating": "\t\t2567\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHannes Stefansson\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBragi Thorfinnsson\t\t",
+                                "rating": "\t\t2455\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tThrostur Thorhallsson\t\t",
+                                "rating": "\t\t2420\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tFlavio Perez\t\t",
+                                "rating": "\t\t2295\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tBarseghyan Harutyun\t\t",
+                                "rating": "\t\t2474\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tValentina Gunina\t\t",
+                                "rating": "\t\t2505\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMatthieu Cornette\t\t",
+                                "rating": "\t\t2602\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHjorvar Steinn Gretarsson\t\t",
+                                "rating": "\t\t2567\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHannes Stefansson\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBragi Thorfinnsson\t\t",
+                                "rating": "\t\t2455\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tThrostur Thorhallsson\t\t",
+                                "rating": "\t\t2420\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tBarseghyan Harutyun\t\t",
+                                "rating": "\t\t2474\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tFlavio Perez\t\t",
+                                "rating": "\t\t2295\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMatthieu Cornette\t\t",
+                                "rating": "\t\t2602\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tValentina Gunina\t\t",
+                                "rating": "\t\t2505\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHjorvar Steinn Gretarsson\t\t",
+                                "rating": "\t\t2567\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHannes Stefansson\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBragi Thorfinnsson\t\t",
+                                "rating": "\t\t2455\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tThrostur Thorhallsson\t\t",
+                                "rating": "\t\t2420\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tValentina Gunina\t\t",
+                                "rating": "\t\t2505\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMatthieu Cornette\t\t",
+                                "rating": "\t\t2602\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tFlavio Perez\t\t",
+                                "rating": "\t\t2295\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tBarseghyan Harutyun\t\t",
+                                "rating": "\t\t2474\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHjorvar Steinn Gretarsson\t\t",
+                                "rating": "\t\t2567\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tHannes Stefansson\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBragi Thorfinnsson\t\t",
+                                "rating": "\t\t2455\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tThrostur Thorhallsson\t\t",
+                                "rating": "\t\t2420\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMatthieu Cornette\t\t",
+                                "rating": "\t\t2602\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tValentina Gunina\t\t",
+                                "rating": "\t\t2505\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tBarseghyan Harutyun\t\t",
+                                "rating": "\t\t2474\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tFlavio Perez\t\t",
+                                "rating": "\t\t2295\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tLondon\t\t",
+                "surname": "\t\tLions\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/London_Lions.png\t\t",
+                "name2": "\t\tLondon\t\t",
+                "surname2": "\t\tTowers\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/London_Towers.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJean-Pierre Le Roux\t\t",
+                                "rating": "\t\t2554\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Adair\t\t",
+                                "rating": "\t\t2482\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArslan Otchiyev\t\t",
+                                "rating": "\t\t2369\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tLawrence Cooper\t\t",
+                                "rating": "\t\t2347\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSimon Ansell\t\t",
+                                "rating": "\t\t2340\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Rendle\t\t",
+                                "rating": "\t\t2366\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tPeter Roberson\t\t",
+                                "rating": "\t\t2403\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGawain Jones\t\t",
+                                "rating": "\t\t2668\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJean-Pierre Le Roux\t\t",
+                                "rating": "\t\t2554\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Adair\t\t",
+                                "rating": "\t\t2482\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArslan Otchiyev\t\t",
+                                "rating": "\t\t2369\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tLawrence Cooper\t\t",
+                                "rating": "\t\t2347\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Rendle\t\t",
+                                "rating": "\t\t2366\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSimon Ansell\t\t",
+                                "rating": "\t\t2340\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGawain Jones\t\t",
+                                "rating": "\t\t2668\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tPeter Roberson\t\t",
+                                "rating": "\t\t2403\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJean-Pierre Le Roux\t\t",
+                                "rating": "\t\t2554\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Adair\t\t",
+                                "rating": "\t\t2482\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArslan Otchiyev\t\t",
+                                "rating": "\t\t2369\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tLawrence Cooper\t\t",
+                                "rating": "\t\t2347\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tPeter Roberson\t\t",
+                                "rating": "\t\t2403\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGawain Jones\t\t",
+                                "rating": "\t\t2668\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSimon Ansell\t\t",
+                                "rating": "\t\t2340\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Rendle\t\t",
+                                "rating": "\t\t2366\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJean-Pierre Le Roux\t\t",
+                                "rating": "\t\t2554\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Adair\t\t",
+                                "rating": "\t\t2482\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArslan Otchiyev\t\t",
+                                "rating": "\t\t2369\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tLawrence Cooper\t\t",
+                                "rating": "\t\t2347\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGawain Jones\t\t",
+                                "rating": "\t\t2668\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tPeter Roberson\t\t",
+                                "rating": "\t\t2403\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Rendle\t\t",
+                                "rating": "\t\t2366\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSimon Ansell\t\t",
+                                "rating": "\t\t2340\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start": "First Match Starts: 14:45 PST",
+        "division": "Atlantic Division",
+        "background": "#167896",
+        "divisionList": [
+            {
+                "name": "\t\tSaint Louis\t\t",
+                "surname": "\t\tArch Bishops\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/StLouis_ArchBishops.png\t\t",
+                "name2": "\t\tMontreal\t\t",
+                "surname2": "\t\tChessbrahs\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Montreal_Chessbrahs.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Fedoseev\t\t",
+                                "rating": "\t\t2731\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaruzhan Akobian\t\t",
+                                "rating": "\t\t2662\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYaroslav Zherebukh\t\t",
+                                "rating": "\t\t2621\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tForest Chen\t\t",
+                                "rating": "\t\t1983\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tLefong Hua\t\t",
+                                "rating": "\t\t2310\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tShiyam Thavandiran\t\t",
+                                "rating": "\t\t2385\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEric Hansen\t\t",
+                                "rating": "\t\t2629\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIvan Saric\t\t",
+                                "rating": "\t\t2662\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Fedoseev\t\t",
+                                "rating": "\t\t2731\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaruzhan Akobian\t\t",
+                                "rating": "\t\t2662\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYaroslav Zherebukh\t\t",
+                                "rating": "\t\t2621\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tForest Chen\t\t",
+                                "rating": "\t\t1983\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tShiyam Thavandiran\t\t",
+                                "rating": "\t\t2385\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tLefong Hua\t\t",
+                                "rating": "\t\t2310\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIvan Saric\t\t",
+                                "rating": "\t\t2662\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEric Hansen\t\t",
+                                "rating": "\t\t2629\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Fedoseev\t\t",
+                                "rating": "\t\t2731\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaruzhan Akobian\t\t",
+                                "rating": "\t\t2662\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYaroslav Zherebukh\t\t",
+                                "rating": "\t\t2621\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tForest Chen\t\t",
+                                "rating": "\t\t1983\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEric Hansen\t\t",
+                                "rating": "\t\t2629\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIvan Saric\t\t",
+                                "rating": "\t\t2662\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tLefong Hua\t\t",
+                                "rating": "\t\t2310\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tShiyam Thavandiran\t\t",
+                                "rating": "\t\t2385\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Fedoseev\t\t",
+                                "rating": "\t\t2731\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVaruzhan Akobian\t\t",
+                                "rating": "\t\t2662\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tYaroslav Zherebukh\t\t",
+                                "rating": "\t\t2621\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tForest Chen\t\t",
+                                "rating": "\t\t1983\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tIvan Saric\t\t",
+                                "rating": "\t\t2662\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tEric Hansen\t\t",
+                                "rating": "\t\t2629\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tShiyam Thavandiran\t\t",
+                                "rating": "\t\t2385\t\t"
+                            },
+                            {
+                                "rank": "\t\tFM\t\t",
+                                "name": "\t\tLefong Hua\t\t",
+                                "rating": "\t\t2310\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tMiami\t\t",
+                "surname": "\t\tChampions\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Miami_Champions.png\t\t",
+                "name2": "\t\tBuenos Aires\t\t",
+                "surname2": "\t\tKrakens\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/BuenosAires_Krakens.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOliver Barbosa\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Becerra Rivero\t\t",
+                                "rating": "\t\t2536\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRenier Gonzalez\t\t",
+                                "rating": "\t\t2451\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tNicholas Rosenthal\t\t",
+                                "rating": "\t\t2164\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGerman Della Morte\t\t",
+                                "rating": "\t\t2362\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMaximiliano Perez\t\t",
+                                "rating": "\t\t2393\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMario Villanueva\t\t",
+                                "rating": "\t\t2445\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAndres Carlos Obregon\t\t",
+                                "rating": "\t\t2514\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOliver Barbosa\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Becerra Rivero\t\t",
+                                "rating": "\t\t2536\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRenier Gonzalez\t\t",
+                                "rating": "\t\t2451\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tNicholas Rosenthal\t\t",
+                                "rating": "\t\t2164\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMaximiliano Perez\t\t",
+                                "rating": "\t\t2393\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGerman Della Morte\t\t",
+                                "rating": "\t\t2362\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAndres Carlos Obregon\t\t",
+                                "rating": "\t\t2514\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMario Villanueva\t\t",
+                                "rating": "\t\t2445\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOliver Barbosa\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Becerra Rivero\t\t",
+                                "rating": "\t\t2536\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRenier Gonzalez\t\t",
+                                "rating": "\t\t2451\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tNicholas Rosenthal\t\t",
+                                "rating": "\t\t2164\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMario Villanueva\t\t",
+                                "rating": "\t\t2445\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAndres Carlos Obregon\t\t",
+                                "rating": "\t\t2514\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGerman Della Morte\t\t",
+                                "rating": "\t\t2362\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMaximiliano Perez\t\t",
+                                "rating": "\t\t2393\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOliver Barbosa\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Becerra Rivero\t\t",
+                                "rating": "\t\t2536\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tRenier Gonzalez\t\t",
+                                "rating": "\t\t2451\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tNicholas Rosenthal\t\t",
+                                "rating": "\t\t2164\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAndres Carlos Obregon\t\t",
+                                "rating": "\t\t2514\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMario Villanueva\t\t",
+                                "rating": "\t\t2445\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMaximiliano Perez\t\t",
+                                "rating": "\t\t2393\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGerman Della Morte\t\t",
+                                "rating": "\t\t2362\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tPittsburgh\t\t",
+                "surname": "\t\tPawngrabbers\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Pittsburg_Pawngrabbers.png\t\t",
+                "name2": "\t\tMontclair\t\t",
+                "surname2": "\t\tSopranos\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Montclair_Sopranos.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexander Shabalov\t\t",
+                                "rating": "\t\t2563\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAwonder Liang\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAtulya Shetty\t\t",
+                                "rating": "\t\t2403\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMika Brattain\t\t",
+                                "rating": "\t\t2381\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Bartell\t\t",
+                                "rating": "\t\t2345\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tRaven Sturt\t\t",
+                                "rating": "\t\t2452\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnatoly Bykhovsky\t\t",
+                                "rating": "\t\t2496\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBassem Amin\t\t",
+                                "rating": "\t\t2699\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexander Shabalov\t\t",
+                                "rating": "\t\t2563\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAwonder Liang\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAtulya Shetty\t\t",
+                                "rating": "\t\t2403\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMika Brattain\t\t",
+                                "rating": "\t\t2381\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tRaven Sturt\t\t",
+                                "rating": "\t\t2452\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Bartell\t\t",
+                                "rating": "\t\t2345\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBassem Amin\t\t",
+                                "rating": "\t\t2699\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnatoly Bykhovsky\t\t",
+                                "rating": "\t\t2496\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexander Shabalov\t\t",
+                                "rating": "\t\t2563\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAwonder Liang\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAtulya Shetty\t\t",
+                                "rating": "\t\t2403\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMika Brattain\t\t",
+                                "rating": "\t\t2381\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnatoly Bykhovsky\t\t",
+                                "rating": "\t\t2496\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBassem Amin\t\t",
+                                "rating": "\t\t2699\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Bartell\t\t",
+                                "rating": "\t\t2345\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tRaven Sturt\t\t",
+                                "rating": "\t\t2452\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexander Shabalov\t\t",
+                                "rating": "\t\t2563\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAwonder Liang\t\t",
+                                "rating": "\t\t2545\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAtulya Shetty\t\t",
+                                "rating": "\t\t2403\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tMika Brattain\t\t",
+                                "rating": "\t\t2381\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tBassem Amin\t\t",
+                                "rating": "\t\t2699\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnatoly Bykhovsky\t\t",
+                                "rating": "\t\t2496\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tRaven Sturt\t\t",
+                                "rating": "\t\t2452\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tThomas Bartell\t\t",
+                                "rating": "\t\t2345\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tMinnesota\t\t",
+                "surname": "\t\tBlizzard\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Minnesota_Blizzard.png\t\t",
+                "name2": "\t\tWebster\t\t",
+                "surname2": "\t\tWindmills\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Webster_Windmills.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMauricio Flores\t\t",
+                                "rating": "\t\t2529\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrew Tang\t\t",
+                                "rating": "\t\t2488\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAkshat Chandra\t\t",
+                                "rating": "\t\t2481\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSean Nagle\t\t",
+                                "rating": "\t\t2432\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tWGM\t\t",
+                                "name": "\t\tKaterina Nemcova\t\t",
+                                "rating": "\t\t2315\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAshwin Jayaram\t\t",
+                                "rating": "\t\t2474\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tTamas Banusz\t\t",
+                                "rating": "\t\t2608\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLe Quang Liem\t\t",
+                                "rating": "\t\t2739\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMauricio Flores\t\t",
+                                "rating": "\t\t2529\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrew Tang\t\t",
+                                "rating": "\t\t2488\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAkshat Chandra\t\t",
+                                "rating": "\t\t2481\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSean Nagle\t\t",
+                                "rating": "\t\t2432\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAshwin Jayaram\t\t",
+                                "rating": "\t\t2474\t\t"
+                            },
+                            {
+                                "rank": "\t\tWGM\t\t",
+                                "name": "\t\tKaterina Nemcova\t\t",
+                                "rating": "\t\t2315\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLe Quang Liem\t\t",
+                                "rating": "\t\t2739\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tTamas Banusz\t\t",
+                                "rating": "\t\t2608\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMauricio Flores\t\t",
+                                "rating": "\t\t2529\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrew Tang\t\t",
+                                "rating": "\t\t2488\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAkshat Chandra\t\t",
+                                "rating": "\t\t2481\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSean Nagle\t\t",
+                                "rating": "\t\t2432\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tTamas Banusz\t\t",
+                                "rating": "\t\t2608\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLe Quang Liem\t\t",
+                                "rating": "\t\t2739\t\t"
+                            },
+                            {
+                                "rank": "\t\tWGM\t\t",
+                                "name": "\t\tKaterina Nemcova\t\t",
+                                "rating": "\t\t2315\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAshwin Jayaram\t\t",
+                                "rating": "\t\t2474\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMauricio Flores\t\t",
+                                "rating": "\t\t2529\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrew Tang\t\t",
+                                "rating": "\t\t2488\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAkshat Chandra\t\t",
+                                "rating": "\t\t2481\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tSean Nagle\t\t",
+                                "rating": "\t\t2432\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tLe Quang Liem\t\t",
+                                "rating": "\t\t2739\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tTamas Banusz\t\t",
+                                "rating": "\t\t2608\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAshwin Jayaram\t\t",
+                                "rating": "\t\t2474\t\t"
+                            },
+                            {
+                                "rank": "\t\tWGM\t\t",
+                                "name": "\t\tKaterina Nemcova\t\t",
+                                "rating": "\t\t2315\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start": "First Match Starts: 18:00 PST",
+        "division": "Pacific Division",
+        "background": "#9e3137",
+        "divisionList": [
+            {
+                "name": "\t\tRio Grande\t\t",
+                "surname": "\t\tOspreys\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/RioGrande_Ospreys.png\t\t",
+                "name2": "\t\tSeattle\t\t",
+                "surname2": "\t\tSluggers\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/Seattle_Sluggers.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOleksandr Bortnyk\t\t",
+                                "rating": "\t\t2600\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Belous\t\t",
+                                "rating": "\t\t2566\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGuillermo Vazquez\t\t",
+                                "rating": "\t\t2441\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJoshua Ruiz\t\t",
+                                "rating": "\t\t2376\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBryce Tiglon\t\t",
+                                "rating": "\t\t2439\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGeorgi Orlov\t\t",
+                                "rating": "\t\t2481\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGiorgi Margvelashvili\t\t",
+                                "rating": "\t\t2530\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVictor Mikhalevski\t\t",
+                                "rating": "\t\t2547\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOleksandr Bortnyk\t\t",
+                                "rating": "\t\t2600\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Belous\t\t",
+                                "rating": "\t\t2566\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGuillermo Vazquez\t\t",
+                                "rating": "\t\t2441\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJoshua Ruiz\t\t",
+                                "rating": "\t\t2376\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGeorgi Orlov\t\t",
+                                "rating": "\t\t2481\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBryce Tiglon\t\t",
+                                "rating": "\t\t2439\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVictor Mikhalevski\t\t",
+                                "rating": "\t\t2547\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGiorgi Margvelashvili\t\t",
+                                "rating": "\t\t2530\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOleksandr Bortnyk\t\t",
+                                "rating": "\t\t2600\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Belous\t\t",
+                                "rating": "\t\t2566\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGuillermo Vazquez\t\t",
+                                "rating": "\t\t2441\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJoshua Ruiz\t\t",
+                                "rating": "\t\t2376\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGiorgi Margvelashvili\t\t",
+                                "rating": "\t\t2530\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVictor Mikhalevski\t\t",
+                                "rating": "\t\t2547\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBryce Tiglon\t\t",
+                                "rating": "\t\t2439\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGeorgi Orlov\t\t",
+                                "rating": "\t\t2481\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tOleksandr Bortnyk\t\t",
+                                "rating": "\t\t2600\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVladimir Belous\t\t",
+                                "rating": "\t\t2566\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGuillermo Vazquez\t\t",
+                                "rating": "\t\t2441\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJoshua Ruiz\t\t",
+                                "rating": "\t\t2376\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tVictor Mikhalevski\t\t",
+                                "rating": "\t\t2547\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tGiorgi Margvelashvili\t\t",
+                                "rating": "\t\t2530\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tGeorgi Orlov\t\t",
+                                "rating": "\t\t2481\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tBryce Tiglon\t\t",
+                                "rating": "\t\t2439\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tLas Vegas\t\t",
+                "surname": "\t\tDesert Rats\t\t",
+                "img": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/LasVegas_DesertRats.png\t\t",
+                "name2": "\t\tSan Diego\t\t",
+                "surname2": "\t\tSurfers\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/SanDiego_Surfers.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMelikset Khachiyan\t\t",
+                                "rating": "\t\t2526\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZbigniew Pakleza\t\t",
+                                "rating": "\t\t2496\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrey Ostrovskiy\t\t",
+                                "rating": "\t\t2444\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJacek Stopa\t\t",
+                                "rating": "\t\t2428\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tCraig Hilby\t\t",
+                                "rating": "\t\t2378\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKeaton Kiewra\t\t",
+                                "rating": "\t\t2433\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMichael Brown\t\t",
+                                "rating": "\t\t2499\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Dreev\t\t",
+                                "rating": "\t\t2648\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMelikset Khachiyan\t\t",
+                                "rating": "\t\t2526\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZbigniew Pakleza\t\t",
+                                "rating": "\t\t2496\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrey Ostrovskiy\t\t",
+                                "rating": "\t\t2444\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJacek Stopa\t\t",
+                                "rating": "\t\t2428\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKeaton Kiewra\t\t",
+                                "rating": "\t\t2433\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tCraig Hilby\t\t",
+                                "rating": "\t\t2378\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Dreev\t\t",
+                                "rating": "\t\t2648\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMichael Brown\t\t",
+                                "rating": "\t\t2499\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMelikset Khachiyan\t\t",
+                                "rating": "\t\t2526\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZbigniew Pakleza\t\t",
+                                "rating": "\t\t2496\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrey Ostrovskiy\t\t",
+                                "rating": "\t\t2444\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJacek Stopa\t\t",
+                                "rating": "\t\t2428\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMichael Brown\t\t",
+                                "rating": "\t\t2499\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Dreev\t\t",
+                                "rating": "\t\t2648\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tCraig Hilby\t\t",
+                                "rating": "\t\t2378\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKeaton Kiewra\t\t",
+                                "rating": "\t\t2433\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tMelikset Khachiyan\t\t",
+                                "rating": "\t\t2526\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZbigniew Pakleza\t\t",
+                                "rating": "\t\t2496\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tAndrey Ostrovskiy\t\t",
+                                "rating": "\t\t2444\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJacek Stopa\t\t",
+                                "rating": "\t\t2428\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Dreev\t\t",
+                                "rating": "\t\t2648\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tMichael Brown\t\t",
+                                "rating": "\t\t2499\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tKeaton Kiewra\t\t",
+                                "rating": "\t\t2433\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tCraig Hilby\t\t",
+                                "rating": "\t\t2378\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tAustralia\t\t",
+                "surname": "\t\tKangaroos\t\t",
+                "img": "\t\thttps://www.prochessleague.com/uploads/3/0/5/7/30579463/australia-kangaroos_1_orig.png\t\t",
+                "name2": "\t\tDallas\t\t",
+                "surname2": "\t\tDestiny\t\t",
+                "img2": "\t\thttps://www.prochessleague.com/uploads/3/0/5/7/30579463/dallas-destiny_2_orig.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Sarana\t\t",
+                                "rating": "\t\t2541\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnton Smirnov\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Morris\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tTemur Kuybokarov\t\t",
+                                "rating": "\t\t2468\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArtur Safin\t\t",
+                                "rating": "\t\t2229\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAngel Arribas\t\t",
+                                "rating": "\t\t2505\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tConrad Holt\t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Sadorra\t\t",
+                                "rating": "\t\t2574\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Sarana\t\t",
+                                "rating": "\t\t2541\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnton Smirnov\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Morris\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tTemur Kuybokarov\t\t",
+                                "rating": "\t\t2468\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAngel Arribas\t\t",
+                                "rating": "\t\t2505\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArtur Safin\t\t",
+                                "rating": "\t\t2229\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Sadorra\t\t",
+                                "rating": "\t\t2574\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tConrad Holt\t\t",
+                                "rating": "\t\t2565\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Sarana\t\t",
+                                "rating": "\t\t2541\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnton Smirnov\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Morris\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tTemur Kuybokarov\t\t",
+                                "rating": "\t\t2468\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tConrad Holt\t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Sadorra\t\t",
+                                "rating": "\t\t2574\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArtur Safin\t\t",
+                                "rating": "\t\t2229\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAngel Arribas\t\t",
+                                "rating": "\t\t2505\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAlexey Sarana\t\t",
+                                "rating": "\t\t2541\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAnton Smirnov\t\t",
+                                "rating": "\t\t2508\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tJames Morris\t\t",
+                                "rating": "\t\t2478\t\t"
+                            },
+                            {
+                                "rank": "\t\tIM\t\t",
+                                "name": "\t\tTemur Kuybokarov\t\t",
+                                "rating": "\t\t2468\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJulio Sadorra\t\t",
+                                "rating": "\t\t2574\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tConrad Holt\t\t",
+                                "rating": "\t\t2565\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tAngel Arribas\t\t",
+                                "rating": "\t\t2505\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tArtur Safin\t\t",
+                                "rating": "\t\t2229\t\t"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "\t\tChengdu\t\t",
+                "surname": "\t\tPandas\t\t",
+                "img": "\t\thttps://www.prochessleague.com/uploads/3/0/5/7/30579463/chengdu-pandas_1_orig.png\t\t",
+                "name2": "\t\tSan Jose\t\t",
+                "surname2": "\t\tHackers\t\t",
+                "img2": "\t\thttps://images.chesscomfiles.com/uploads/content/logos/SanJose_Hackers.png\t\t",
+                "rounds": [
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tWang Yue\t\t",
+                                "rating": "\t\t2699\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJu Wenjun\t\t",
+                                "rating": "\t\t2574\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tXu Xiangyu\t\t",
+                                "rating": "\t\t2549\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tXiao Junyuan\t\t",
+                                "rating": "\t\t2077\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tVinesh Ravuri\t\t",
+                                "rating": "\t\t1918\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZviad Izoria\t\t",
+                                "rating": "\t\t2601\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDaniel Naroditsky\t\t",
+                                "rating": "\t\t2626\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tShakhriyar Mamedyarov\t\t",
+                                "rating": "\t\t2797\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tWang Yue\t\t",
+                                "rating": "\t\t2699\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJu Wenjun\t\t",
+                                "rating": "\t\t2574\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tXu Xiangyu\t\t",
+                                "rating": "\t\t2549\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tXiao Junyuan\t\t",
+                                "rating": "\t\t2077\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZviad Izoria\t\t",
+                                "rating": "\t\t2601\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tVinesh Ravuri\t\t",
+                                "rating": "\t\t1918\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tShakhriyar Mamedyarov\t\t",
+                                "rating": "\t\t2797\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDaniel Naroditsky\t\t",
+                                "rating": "\t\t2626\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tWang Yue\t\t",
+                                "rating": "\t\t2699\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJu Wenjun\t\t",
+                                "rating": "\t\t2574\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tXu Xiangyu\t\t",
+                                "rating": "\t\t2549\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tXiao Junyuan\t\t",
+                                "rating": "\t\t2077\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDaniel Naroditsky\t\t",
+                                "rating": "\t\t2626\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tShakhriyar Mamedyarov\t\t",
+                                "rating": "\t\t2797\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tVinesh Ravuri\t\t",
+                                "rating": "\t\t1918\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZviad Izoria\t\t",
+                                "rating": "\t\t2601\t\t"
+                            }
+                        ]
+                    },
+                    {
+                        "team1": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tWang Yue\t\t",
+                                "rating": "\t\t2699\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tJu Wenjun\t\t",
+                                "rating": "\t\t2574\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tXu Xiangyu\t\t",
+                                "rating": "\t\t2549\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tXiao Junyuan\t\t",
+                                "rating": "\t\t2077\t\t"
+                            }
+                        ],
+                        "team2": [
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tShakhriyar Mamedyarov\t\t",
+                                "rating": "\t\t2797\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tDaniel Naroditsky\t\t",
+                                "rating": "\t\t2626\t\t"
+                            },
+                            {
+                                "rank": "\t\tGM\t\t",
+                                "name": "\t\tZviad Izoria\t\t",
+                                "rating": "\t\t2601\t\t"
+                            },
+                            {
+                                "rank": "\t\t\t\t",
+                                "name": "\t\tVinesh Ravuri\t\t",
+                                "rating": "\t\t1918\t\t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
