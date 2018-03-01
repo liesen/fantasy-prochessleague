@@ -11,3 +11,4 @@
 | [Week 5](https://docs.google.com/spreadsheets/d/1yg6XxR8njJTn0inAOj7W2EGnBp4Evz825AnCYEgjopw/edit?usp=sharing) | 2018-02-07 | 37 | 104 | 14 | N/A | | |
 | [Week 6](https://docs.google.com/spreadsheets/d/1TLvSmHH1Yi1JHlfDUm78dZC0RbWyP3kh01_bhMwnNco/edit?usp=sharing) | 2018-02-14 | 42.5 | 10 | 6 | N/A | | |
 | [Super Saturday #2](https://docs.google.com/spreadsheets/d/1NBxVVyPB5MOlXoKtdOlKfb4Vb0Z-ExiY9_hgdEe4TmM/edit?usp=sharing) | 2018-02-24 | 90.5 | 21 | 9 | 0 (10) | 41 | 16 |
+| [Week 8](https://docs.google.com/spreadsheets/d/1h8WrABJ9yoq07XlLS0vQ0cKhzTODtwSYdMo_8RD5LYE/edit?usp=sharing) | 2018-02-28 | 43.5 | 11 | 5 | N/A | | |
